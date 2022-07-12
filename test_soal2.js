@@ -21,7 +21,7 @@
 */
 
 let input = prompt("Masukkan username anda");
-let hasNum = /\d/g;
+let hasNum = /\d/g; 
 
 if (hasNum.test(input)) {
 	let inputNum = parseInt(input.match(hasNum).join(""));
