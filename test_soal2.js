@@ -23,7 +23,7 @@
 let input = prompt("Masukkan username anda");
 let hasNum = /\d/g; 
 
-if (hasNum.test(input)) {
+if (hasNum.test(input)) { 
 	let inputNum = parseInt(input.match(hasNum).join(""));
 	alert(`Sistem kami menolak untuk inputan berisi angka ${inputNum}`);
 } 	else if (input === "" || input == null) {

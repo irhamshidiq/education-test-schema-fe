@@ -23,7 +23,7 @@
 let output1 = "";
 let output2 = "";
 
-for (let i = 1; i <= 6; i++) {
+for (let i = 1; i <= 6; i++) { 
 	console.log(output1 = "*".repeat(i));
 }
 

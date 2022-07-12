@@ -9,7 +9,7 @@ CARA PENGERJAAN!!!
 
 buatlah file baru sesuai dengan number PERTANYAAN
 
-contoh: test_soal1.js
+contoh: test_soal1.js 
 
 PERTANYAAN !!
 
